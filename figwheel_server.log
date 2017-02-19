@@ -1,0 +1,70 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  resources/public/javascripts/cljs-dev/goog/deps.js
+notifying browser that file changed:  /helloworld/title.js
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.118 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.237 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.098 seconds.[0m
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.1 seconds.[0m
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.491 seconds.[0m
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.219 seconds.[0m
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.106 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.105 seconds.[0m
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.098 seconds.[0m
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /helloworld/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /helloworld/title.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.085 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /helloworld/title.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  resources/public/javascripts/cljs-dev/goog/deps.js
+notifying browser that file changed:  /helloworld/title.js
+notifying browser that file changed:  /helloworld/core.js
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
+sending changed CSS file: resources/public/stylesheets/styles.css
